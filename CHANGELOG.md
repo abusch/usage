@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.16.2](https://github.com/jdx/usage/compare/v2.16.1..v2.16.2) - 2026-02-05
+
+### 🔍 Other Changes
+
+- add tone calibration to release notes prompt by [@jdx](https://github.com/jdx) in [#483](https://github.com/jdx/usage/pull/483)
+
 ## [2.16.1](https://github.com/jdx/usage/compare/v2.16.0..v2.16.1) - 2026-01-31
 
 ### 🐛 Bug Fixes
